@@ -1,9 +1,18 @@
 * {
     background-color: aquamarine;
+    margin: 0;
 }
 
 h1 {
     text-align: center;
+}
+
+p {
+    margin-left: 10px;
+}
+
+h2 {
+    margin: 10px;
 }
 
 a {
@@ -14,4 +23,5 @@ a {
 img {
     height: 150px;
     display: block;
+    margin-left: 10px;
 }
